@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack",
+    "EditorConfig.EditorConfig",
+    "ms-vscode.atom-keybindings",
+    "vscode-icons-team.vscode-icons",
+    "wayou.vscode-todo-highlight",
+    "coenraads.bracket-pair-colorizer-2",
+    "vsls-contrib.codetour"
+  ],
+  "unwantedRecommendations": [
+    "dbaeumer.jshint",
+    "firefox-devtools.vscode-firefox-debug"
+  ]
+}
